@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: azure;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: solid, 1px, cadetblue;
+  border-radius: 12px;
+  padding: 20px;
+}
+.Dark-Mode {
+  background-color: black;
+}
+.Light-Mode {
+  background-color: white;
+}
